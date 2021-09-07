@@ -2,7 +2,7 @@
 
 ![20210612_031531](https://user-images.githubusercontent.com/41247872/132414129-9f696ef7-e17e-4897-9859-c882d4a8e86c.jpg)
 
-A Sub-250g DIY drone. Capable of FPV, 3-4S batteries, with 1407 motors and a 3" toohpick frame.
+A Sub-250g DIY drone. Capable of FPV, 3-4S batteries, with 1407 motors and a 3" toohpick frame. This build came out to be around 248g with the battery.
 
 ### Design Constraints
 
