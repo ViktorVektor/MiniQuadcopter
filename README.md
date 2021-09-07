@@ -1,6 +1,6 @@
 ## DIY 3" Quadcopter
 
-![20210602_174258](https://user-images.githubusercontent.com/41247872/132411525-b0745e54-013c-4a9f-9dcc-3acd94685b12.jpg)
+![20210612_031531](https://user-images.githubusercontent.com/41247872/132414129-9f696ef7-e17e-4897-9859-c882d4a8e86c.jpg)
 
 A Sub-250g DIY drone. Capable of FPV, 3-4S batteries, with 1407 motors and a 3" toohpick frame.
 
@@ -21,12 +21,13 @@ For the camera, a box where it could be slipped into was designed and printed in
 Intial ideas had components being mounted under and over an adapter plate, while the plate was mounted to the frame.
 
 ![image](https://user-images.githubusercontent.com/41247872/132412966-1dfbb6e4-3548-44f2-be94-0fbd4d29b2c2.png)
+![20210602_174258](https://user-images.githubusercontent.com/41247872/132411525-b0745e54-013c-4a9f-9dcc-3acd94685b12.jpg)
 
-This proved great for keeping weight down and heat dissipation but left components very vulnerable. I looked for a solution that had the FC and radio reciever enclosed to be protected from crashes and such. I came up with a sort of stacked "cage" that protected the main components. This added about 10g to the final build.
+This proved effective for keeping weight down and heat dissipation but left components very vulnerable. I looked for a solution that had the FC and radio reciever enclosed to be protected from crashes and such. I came up with a sort of stacked "cage" that protected the main components. This added about 10g to the final build.
 
 ![image](https://user-images.githubusercontent.com/41247872/132413578-e7a08109-38cd-457a-9eeb-fa50962aa33e.png)
 
 
-After all the sodlering had been done, I also printed out a battery protector, found here: https://www.thingiverse.com/thing:2256553 . The build was completed by early June 2021, and was extensively flown in August 2021. An issue I came across were the solder connections of the motors to the board. These connections came loose during a crash since they were slightly exposed from the cage.
+After all the sodlering had been done, I also printed out a battery protector, found here: https://www.thingiverse.com/thing:2256553 . The build was completed by early June 2021, and was extensively flown in August 2021. An issue I came across were the solder connections of the motors to the board. These connections came loose during an outdoor crash since they were slightly exposed from the cage.
 
 
